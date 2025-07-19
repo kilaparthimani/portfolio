@@ -1,4 +1,4 @@
-# Sai Seshu Adimulam - Portfolio Website
+# Kilaparthi Manikanta - Portfolio Website
 
 A responsive, modern portfolio website built with HTML, CSS, and JavaScript.
 
@@ -20,7 +20,7 @@ A responsive, modern portfolio website built with HTML, CSS, and JavaScript.
 ## Setup Instructions
 
 1. Make sure you have your profile image saved as `profile.jpg` in the `/images` directory
-2. Add your resume PDF as `SaiSeshuAdimulam_Resume.pdf` in the `/resume` directory
+2. Add your resume PDF as `Manikanta_Kilaparthi.pdf` in the `/resume` directory
 3. Open `index.html` in a web browser to view the portfolio
 
 ## Customization
@@ -37,4 +37,4 @@ The contact form is currently set up for demonstration purposes only. To make it
 
 ---
 
-Created by Cascade AI for Sai Seshu Adimulam, 2025.
+Created by Cascade AI for kilaparthi Manikanta, 2025.
